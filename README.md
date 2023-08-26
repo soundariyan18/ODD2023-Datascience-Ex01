@@ -153,7 +153,7 @@ import pandas as pd
 df=pd.read_csv("Data_set.csv")
 print(df)
 
-![MODEL]()
+![MODEL](https://github.com/soundariyan18/ODD2023-Datascience-Ex01/blob/main/Screenshot%202023-08-26%20175924.png)
 
 NON NULL BEFORE
 
