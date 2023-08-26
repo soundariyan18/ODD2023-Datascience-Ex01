@@ -137,7 +137,7 @@ NON NULL AFTER
 
 df.info()
 
-![MODEL]()
+![MODEL](https://github.com/soundariyan18/ODD2023-Datascience-Ex01/blob/main/Screenshot%202023-08-26%20175841.png)
 
 df.isnull().sum()
 
