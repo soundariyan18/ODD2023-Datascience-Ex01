@@ -131,7 +131,7 @@ MEDIAN
 df['Credit_History']=df['Credit_History'].fillna(df['Credit_History'].median())
 df.head()
 
-![MODEL]()
+![MODEL](https://github.com/soundariyan18/ODD2023-Datascience-Ex01/blob/main/Screenshot%202023-08-26%20175818.png)
 
 NON NULL AFTER
 
