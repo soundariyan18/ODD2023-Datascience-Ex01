@@ -205,8 +205,12 @@ df.isnull()
 
 df.isnull().sum()
 
-![MODEL]()
+![MODEL](https://github.com/soundariyan18/ODD2023-Datascience-Ex01/blob/main/Screenshot%202023-08-26%20180330.png)
 
+
+##RESULT:
+
+Thus,the given data is read,cleansed and the cleaned data is saved into the file..!!!
 
 
 
