@@ -159,7 +159,7 @@ NON NULL BEFORE
 
 df.info()
 
-![MODEL]()
+![MODEL](https://github.com/soundariyan18/ODD2023-Datascience-Ex01/blob/main/Screenshot%202023-08-26%20180045.png)
 
 df.isnull()
 
