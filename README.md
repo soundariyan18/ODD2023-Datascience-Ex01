@@ -92,14 +92,13 @@ df.isnull().sum()
 
 FOR LOAN_DATA:
 
-
 DATA
 
 import pandas as pd
 df=pd.read_csv("Loan_data.csv")
 print(df)
 
-![MODEL]()
+![MODEL](https://github.com/soundariyan18/ODD2023-Datascience-Ex01/blob/main/Screenshot%202023-08-26%20175623.png)
 
 NON NULL BEFORE
 
