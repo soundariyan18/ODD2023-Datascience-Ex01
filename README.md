@@ -115,7 +115,7 @@ df['Self_Employed']=df['Self_Employed'].fillna(df['Self_Employed'].mode()[0])
 df['Gender']=df['Gender'].fillna(df['Gender'].mode()[0])
 df.head()
 
-![MODEL]()
+![MODEL](https://github.com/soundariyan18/ODD2023-Datascience-Ex01/blob/main/Screenshot%202023-08-26%20175707.png)
 
 MEAN
 
