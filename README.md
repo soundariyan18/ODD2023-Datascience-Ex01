@@ -191,7 +191,7 @@ MEDIAN
 df['watchers']=df['watchers'].fillna(df['watchers'].median())
 df.head()
 
-![MODEL]()
+![MODEL](https://github.com/soundariyan18/ODD2023-Datascience-Ex01/blob/main/Screenshot%202023-08-26%20180226.png)
 
 NON NULL AFTER
 
