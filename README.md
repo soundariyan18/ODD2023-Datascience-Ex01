@@ -176,7 +176,7 @@ df['aired_on']=df['aired_on'].fillna(df['aired_on'].mode()[0])
 df['original_network']=df['original_network'].fillna(df['aired_on'].mode()[0])
 df.head()
 
-![MODEL]()
+![MODEL](https://github.com/soundariyan18/ODD2023-Datascience-Ex01/blob/main/Screenshot%202023-08-26%20180158.png)
 
 MEAN
 
